@@ -8,8 +8,24 @@
       <entry key="control_lesson1">
         <State />
       </entry>
-      <entry key="layouttype">
+      <entry key="event_handler">
         <State />
+      </entry>
+      <entry key="layouttype">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\denis\.android\avd\Pixel_6_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-02-28T16:07:21.641873800Z" />
+        </State>
       </entry>
     </value>
   </component>
